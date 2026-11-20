@@ -1,0 +1,41 @@
+{
+  "snapshot_date": "2026-11-20",
+  "documents": [
+    {
+      "brand": "Wasalt",
+      "title": "Platform overview",
+      "source_url": "https://wasalt.sa/en",
+      "content": "Wasalt describes itself as a Saudi-based real estate platform for discovering properties and opportunities and connecting with property experts. Its public website supports browsing homes and property information. The website presents buying, renting, selling, projects, daily rentals, and auctions."
+    },
+    {
+      "brand": "Wasalt",
+      "title": "Property search categories",
+      "source_url": "https://wasalt.sa/en",
+      "content": "Wasalt's homepage links to public property searches and city pages for Riyadh, Jeddah, Makkah, Madinah, Dammam, and other Saudi locations. Examples include villas, apartments, and land for sale or rent. This note describes navigation categories only; it does not contain listings, prices, availability, or contact details. Check Wasalt's live site for current inventory."
+    },
+    {
+      "brand": "Wasalt",
+      "title": "Platform credentials and services",
+      "source_url": "https://wasalt.sa/en",
+      "content": "The Wasalt homepage states that the platform is licensed by the Real Estate General Authority (REGA), license 1200016591, and by the Ministry of Tourism, license 73106008. The homepage also shows commercial registration number 7017195509 and describes services for buyers, renters, sellers, and property professionals. Verify current credentials directly on the official website."
+    },
+    {
+      "brand": "Wasalt",
+      "title": "Projects and auctions",
+      "source_url": "https://wasalt.sa/en",
+      "content": "Wasalt's homepage promotes browsing real estate projects and provides a link to auctions in Saudi Arabia, including Infath and private auctions. It also links to CIRE Saudi for international luxury properties. Auction inventory and project details can change; follow the links from the live Wasalt website."
+    },
+    {
+      "brand": "DarGlobal",
+      "title": "Project names listed in the official sitemap",
+      "source_url": "https://darglobal.co.uk/sitemap.xml",
+      "content": "DarGlobal's public sitemap lists project pages including AIDA, Trump Tower Jeddah, Trump International Hotel and Tower Dubai, The Astera, Marea, La Collina, Fairway Villas at AIDA Oman, Marriott Residences AIDA Oman, DG1, Davinci Tower by Pagani, W Residences, and Urban Oasis by Missoni. These are names and page URLs found in the sitemap, not confirmation of current availability, completion, pricing, or specifications. Open each official project page for its latest details."
+    },
+    {
+      "brand": "DarGlobal",
+      "title": "Official site navigation",
+      "source_url": "https://darglobal.co.uk/sitemap.xml",
+      "content": "DarGlobal's public sitemap lists official pages for About, Projects, Press, Blog, and Insights, as well as dedicated pages for individual developments and brand partners. The sitemap is a directory of pages and does not by itself establish project status or provide commercial terms. The main DarGlobal pages may not be readable by automated clients."
+    }
+  ]
+}
